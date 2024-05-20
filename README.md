@@ -1,1 +1,0 @@
-# ambrishpathak.github.io
