@@ -1,3 +1,5 @@
+| Home        | Projects          | Certification | Contact |
+|:-------------|:------------------|:------|
 # AI and Data Science Enthusiast
 
 #### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
