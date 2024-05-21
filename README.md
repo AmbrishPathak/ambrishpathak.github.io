@@ -1,4 +1,4 @@
-| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/) | [Contact](https://ambrishpathak.github.io/) |
+| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/) | [Recommendation](https://ambrishpathak.github.io/) | [Download Resume]() |
 
 
 
