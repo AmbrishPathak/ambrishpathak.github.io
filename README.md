@@ -40,6 +40,6 @@
   
 
 ## Achievements and Publications 
-- <p align="justify">Led a 15+ member team at LTIMindtree for 2 months, managing shift rosters, implementing improvement plans, conducting training sessions and Successfully obtained long-pending sign-offs from the customer, garnering recognition from management, and receiving the "Pat on the Back" award.</b>
--  Secured 2nd Rank in the First Year BSc IT examination during the academic year 2016-17.</b>
+- <p align="justify">Led a 15+ member team at LTIMindtree for 2 months, managing shift rosters, implementing improvement plans, conducting training sessions and Successfully obtained long-pending sign-offs from the customer, garnering recognition from management, and receiving the "Pat on the Back" award.<br/>
+-  Secured 2nd Rank in the First Year BSc IT examination during the academic year 2016-17.<br/>
 -  Successfully published and presented and research paper “Evolution of online shopping: E-commerce” in the journal “The Vibrant India”</p>
