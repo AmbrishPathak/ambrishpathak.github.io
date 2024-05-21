@@ -8,9 +8,9 @@
 
 ## Work experience
 **IT Engineer @ INFORM GmbH (_April 2023 - Present_)**
-- Solved 100+ issues via Jira per month, configured applications, provided 24x7 on-call support, and supported Windows Server, Linux, and AWS cloud-based environments. Developed and modified 30+ Perl scripts, wrote 100+ SQL and PowerShell scripts, and configured Power BI and BIS reporting tools, improving reporting efficiency by 25%.
-- Maintained 100+ pods/containers, and managed resource utilization, reducing costs by 15%. Participated in weekly customer calls, maintained a 95% customer satisfaction rate, and kept Jira boards up to date, clearing 50+ outdated tickets.
-- Collaborated with development teams to enhance system performance, minimizing downtime by 20%. Analyzed system KPIs to further reduce downtime and ensure optimal performance
+> Solved 100+ issues via Jira per month, configured applications, provided 24x7 on-call support, and supported Windows Server, Linux, and AWS cloud-based environments. Developed and modified 30+ Perl scripts, wrote 100+ SQL and PowerShell scripts, and configured Power BI and BIS reporting tools, improving reporting efficiency by 25%.
+> Maintained 100+ pods/containers, and managed resource utilization, reducing costs by 15%. Participated in weekly customer calls, maintained a 95% customer satisfaction rate, and kept Jira boards up to date, clearing 50+ outdated tickets.
+> Collaborated with development teams to enhance system performance, minimizing downtime by 20%. Analyzed system KPIs to further reduce downtime and ensure optimal performance
 
 **Engineer Cloud and Infrastructure Services @ LTIMindtree (_December 2019 - March 2023_)**
 - Proficient in troubleshooting diverse systems, resolving 100+ issues per month across Linux, VMware, Windows Server, Oracle, MS-SQL, MongoDB, Middleware, and Backup systems.
