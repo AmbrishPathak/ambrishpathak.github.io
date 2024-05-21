@@ -18,8 +18,7 @@
 - Conducted service management and maintenance for Middleware and Linux, achieving 95% service availability and reducing system downtime by 15%. Handled server provisioning, resource management, reducing server deployment time by 30%.
 
 ## Projects 
-### Time Series Forecasting model in Python using the FBProphet module (_May 2024_)
-[Colab Link](https://colab.research.google.com/drive/1l7wYgtDoStbtl2oIFVjJEizdraaZgAjc?usp=sharing#scrollTo=qmkjgc6weFY8).
+### Time Series Forecasting model in Python using the FBProphet module (_May 2024_) | [Colab Link](https://colab.research.google.com/drive/1l7wYgtDoStbtl2oIFVjJEizdraaZgAjc?usp=sharing#scrollTo=qmkjgc6weFY8)
 Developed a predictive model for New York City boroughs' electric consumption using daily data from 2010 to 2023. Aggregated data into monthly and yearly means, trained FBProphet models, and forecasted consumption for future periods. Tuned model parameters for accuracy and evaluated performance using MAE, MAPE, and R² metrics. Visualized results with historical and predicted data graphs.
 
 ### Stock Foretell using Deep Learning (_April 2019_)
