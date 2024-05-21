@@ -1,8 +1,90 @@
-<!DOCTYPE HTML>
-<head align='center' bg='blue'><H1>Certifications<H1></head>
-<body align='center'>
-  <H2>Certificate 1</H2>
-  <H2>Certificate 2</H2>
-  <H2>Certificate 3</H2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certifications</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #00cc66;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .post {
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin: 10px;
+            padding: 20px;
+            width: calc(33% - 40px);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .post img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .post h2 {
+            margin-top: 0;
+        }
+
+        @media (max-width: 768px) {
+            .post {
+                width: calc(50% - 40px);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .post {
+                width: calc(100% - 40px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Certifications</h1>
+    </header>
+    <div class="container">
+        <div class="post">
+           <a href='https://www.w3schools.com/'> <h2>AZ-900</h2></a>
+            <img src="C:\Users\apathak\Pictures\AirportTest.PNG" alt="Post Image 1">
+            <p>Microsoft certified: Azure Fundamentals</p>
+        </div>
+        <div class="post">
+            <h2>Post Title 2</h2>
+            <img src="https://via.placeholder.com/300" alt="Post Image 2">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut quam eget odio aliquet malesuada.</p>
+        </div>
+        <div class="post">
+            <h2>Post Title 3</h2>
+            <img src="https://via.placeholder.com/300" alt="Post Image 3">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut quam eget odio aliquet malesuada.</p>
+        </div>
+        <div class="post">
+            <h2>Post Title 4</h2>
+            <img src="https://via.placeholder.com/300" alt="Post Image 3">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut quam eget odio aliquet malesuada.</p>
+        </div>
+        <!-- Add more posts as needed -->
+    </div>
 </body>
-</HTML>
+</html>
+
