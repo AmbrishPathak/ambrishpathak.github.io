@@ -7,11 +7,11 @@
 #### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
 
 ## Profile
-5+ years of experience in application support, consulting, quality assurance, and administration roles for fintech and aviation companies with 500 to 20,000 employees and up to $4.27B in annual revenue.
+<p align="justify">5+ years of experience in application support, consulting, quality assurance, and administration roles for fintech and aviation companies with 500 to 20,000 employees and up to $4.27B in annual revenue.
 
 Managed 5+ customers as an IT Engineer and Consultant at INFORM GmbH. Proficient in troubleshooting issues, application configuration, feature testing, and software delivery.
 
-Monitored 4+ alert consoles and 10+ payment consoles at Nexi Group to ensure service uptime, managed incidents, and changes with ServiceNow, and provided first-level troubleshooting across diverse technologies.
+Monitored 4+ alert consoles and 10+ payment consoles at Nexi Group to ensure service uptime, managed incidents, and changes with ServiceNow, and provided first-level troubleshooting across diverse technologies.</p>
 
 ## Education
 - M.S., Data Science | Stevens Institute of Technology (_Dec 2025_)
