@@ -1,4 +1,4 @@
-| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/Certification.html) | [Recommendation](https://ambrishpathak.github.io/) | [Resume](https://drive.google.com/file/d/1VUHLBe9zdro6d3hPK4NtHljHCJAkY2yI/view) |
+| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/Certification.html) | [Recommendation](https://ambrishpathak.github.io/Recommendation.html) | [Resume](https://drive.google.com/file/d/1VUHLBe9zdro6d3hPK4NtHljHCJAkY2yI/view) |
 
 
 
