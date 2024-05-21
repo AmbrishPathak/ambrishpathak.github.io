@@ -1,4 +1,4 @@
-| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/) | [Recommendation](https://ambrishpathak.github.io/) | [Download Resume]() |
+| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/) | [Recommendation](https://ambrishpathak.github.io/) | [Resume](https://github.com/AmbrishPathak/ambrishpathak.github.io/blob/main/assets/resources/Ambrish%20Pathak%20CV_V1.0.pdf) |
 
 
 
