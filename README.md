@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Bash, PowerShell, Oracle, Tableau, Power BI
 
 ## Education
-- M.S., Data Science | Stevens Institute of Technology (_December 2025_)
+- M.S., Data Science | Stevens Institute of Technology (_Dec 2025_)
 - B.S., Information Technology | Univerisity of Mumbai (_May 2019_)
 
 ## Work experience
