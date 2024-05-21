@@ -12,7 +12,7 @@
 - Maintained 100+ pods/containers, and managed resource utilization, reducing costs by 15%. Participated in weekly customer calls, maintained a 95% customer satisfaction rate, and kept Jira boards up to date, clearing 50+ outdated tickets.
 - Collaborated with development teams to enhance system performance, minimizing downtime by 20%. Analyzed system KPIs to further reduce downtime and ensure optimal performance
 
-**Engineer Cloud and Infrastructure Services @ LTIMindtree (_December 2019 - March 2023)**
+**Engineer Cloud and Infrastructure Services @ LTIMindtree (_December 2019 - March 2023_)**
 - Proficient in troubleshooting diverse systems, resolving 100+ issues per month across Linux, VMware, Windows Server, Oracle, MS-SQL, MongoDB, Middleware, and Backup systems.
 - Managed database backup, recovery, and performance monitoring for Oracle, MS-SQL, and MongoDB ensuring 99% uptime.
 - Conducted service management and maintenance for Middleware and Linux, achieving 95% service availability and reducing system downtime by 15%. Handled server provisioning, resource management, reducing server deployment time by 30%.
