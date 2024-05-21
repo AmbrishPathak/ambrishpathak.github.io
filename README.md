@@ -6,22 +6,22 @@
 
 #### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
 
-## Profile
-<p align="justify">5+ years of experience in application support, consulting, quality assurance, and administration roles for fintech and aviation companies with 500 to 20,000 employees and up to $4.27B in annual revenue.
-
-Managed 5+ customers as an IT Engineer and Consultant at INFORM GmbH. Proficient in troubleshooting issues, application configuration, feature testing, and software delivery.
-
-Monitored 4+ alert consoles and 10+ payment consoles at Nexi Group to ensure service uptime, managed incidents, and changes with ServiceNow, and provided first-level troubleshooting across diverse technologies.</p>
-
 ## Education
 - M.S., Data Science | Stevens Institute of Technology (_Dec 2025_)
 - B.S., Information Technology | Univerisity of Mumbai (_May 2019_)
 
+## Profile
+<p align="justify">5+ years of experience in application support, consulting, quality assurance, and administration roles for fintech and aviation companies with 500 to 20,000 employees and up to $4.27B in annual revenue.</p>
+<p align="justify">Managed 5+ customers as an IT Engineer and Consultant at INFORM GmbH. Proficient in troubleshooting issues, application configuration, feature testing, and software delivery.</p>
+
+<p align="justify">Monitored 4+ alert consoles and 10+ payment consoles at Nexi Group to ensure service uptime, managed incidents, and changes with ServiceNow, and provided first-level troubleshooting across diverse technologies.</p>
+
+
 ## Work experience
 **IT Engineer @ INFORM GmbH (_April 2023 - Present_)**
-- Solved 100+ issues via Jira per month, configured applications, provided 24x7 on-call support, and supported Windows Server, Linux, and AWS cloud-based environments. Developed and modified 30+ Perl scripts, wrote 100+ SQL and PowerShell scripts, and configured Power BI and BIS reporting tools, improving reporting efficiency by 25%.
-- Maintained 100+ pods/containers, and managed resource utilization, reducing costs by 15%. Participated in weekly customer calls, maintained a 95% customer satisfaction rate, and kept Jira boards up to date, clearing 50+ outdated tickets.
-- Collaborated with development teams to enhance system performance, minimizing downtime by 20%. Analyzed system KPIs to further reduce downtime and ensure optimal performance
+- <p align="justify">Solved 100+ issues via Jira per month, configured applications, provided 24x7 on-call support, and supported Windows Server, Linux, and AWS cloud-based environments. Developed and modified 30+ Perl scripts, wrote 100+ SQL and PowerShell scripts, and configured Power BI and BIS reporting tools, improving reporting efficiency by 25%.</p>
+- <p align="justify">Maintained 100+ pods/containers, and managed resource utilization, reducing costs by 15%. Participated in weekly customer calls, maintained a 95% customer satisfaction rate, and kept Jira boards up to date, clearing 50+ outdated tickets.</p>
+- <p align="justify">Collaborated with development teams to enhance system performance, minimizing downtime by 20%. Analyzed system KPIs to further reduce downtime and ensure optimal performance</p>
 
 **Engineer Cloud and Infrastructure Services @ LTIMindtree (_December 2019 - March 2023_)**
 - Proficient in troubleshooting diverse systems, resolving 100+ issues per month across Linux, VMware, Windows Server, Oracle, MS-SQL, MongoDB, Middleware, and Backup systems.
