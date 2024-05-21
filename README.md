@@ -1,4 +1,4 @@
-| Home        | Projects          | Certification | Contact |
+| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/) | [Contact](https://ambrishpathak.github.io/) |
 
 
 
