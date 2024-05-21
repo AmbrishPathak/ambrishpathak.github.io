@@ -1,4 +1,4 @@
-# Data-sciencetist
+# AI and Data Science Enthusiast
 
 ### Education
 Physics,PhD
