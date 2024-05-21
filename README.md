@@ -1,6 +1,6 @@
 # AI and Data Science Enthusiast
 
-#### Technical Skills: Python, SQL, AWS, Bash, PowerShell, Oracle, Tableau, Power BI
+#### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
 
 ## Education
 - M.S., Data Science | Stevens Institute of Technology (_Dec 2025_)
