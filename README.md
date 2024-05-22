@@ -10,8 +10,8 @@
 <p align="justify">Leveraging 5+ years of experience in IT support, consulting, and administration, I've honed strong analytical, problem-solving, and technical skills. This experience has equipped me to effectively manage complex systems, troubleshoot issues, and communicate technical solutions clearly. I'm passionate about applying these skills to the field of data science.</p>
 
 ## Education
-- ##### M.S., Data Science | Stevens Institute of Technology (_Dec 2025_)
-- ##### B.S., Information Technology | Thakur College of Science & Commerce (_May 2019_)
+ ##### M.S., Data Science | Stevens Institute of Technology (_Dec 2025_)
+ ##### B.S., Information Technology | Thakur College of Science & Commerce (_May 2019_)
 
 ## Work experience
 **IT Engineer @ INFORM GmbH (_April 2023 - Present_)**
