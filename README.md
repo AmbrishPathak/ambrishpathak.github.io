@@ -1,28 +1,31 @@
-| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/Certification.html) | [Recommendation](https://ambrishpathak.github.io/Recommendation.html) | [Resume](https://drive.google.com/file/d/1VUHLBe9zdro6d3hPK4NtHljHCJAkY2yI/view) |
+| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/Certification.html) |  [Resume](https://drive.google.com/file/d/1VUHLBe9zdro6d3hPK4NtHljHCJAkY2yI/view) | [Get in Touch](https://ambrishpathak.github.io/Recommendation.html) |
 
 
 
-# AI and Data Science Enthusiast
+# M.S. Data Science Student at Stevens
 
 #### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
 
 ## Profile
-<p align="justify">5+ years of experience in application support, consulting, quality assurance, and administration roles for fintech and aviation companies with 500 to 20,000 employees and up to $4.27B in annual revenue.</p>
-<p align="justify">Managed 5+ customers as an IT Engineer and Consultant at INFORM GmbH. Proficient in troubleshooting issues, application configuration, feature testing, and software delivery.</p>
-<p align="justify">Monitored 4+ alert consoles and 10+ payment consoles at Nexi Group to ensure service uptime, managed incidents, and changes with ServiceNow, and provided first-level troubleshooting across diverse technologies.</p>
+<p align="justify">Leveraging 5+ years of experience in IT support, consulting, and administration, I've honed strong analytical, problem-solving, and technical skills. This experience has equipped me to effectively manage complex systems, troubleshoot issues, and communicate technical solutions clearly. I'm passionate about applying these skills to the field of data science.</p>
 
 ## Education
 - M.S., Data Science | Stevens Institute of Technology (_Dec 2025_)
-- B.S., Information Technology | Univerisity of Mumbai (_May 2019_)
+- B.S., Information Technology | Thakur College of Science & Commerce (_May 2019_)
 
 ## Work experience
 **IT Engineer @ INFORM GmbH (_April 2023 - Present_)**
-- <p align="justify">Solved 100+ issues via Jira per month, configured applications, provided 24x7 on-call support, and supported Windows Server, Linux, and AWS cloud-based environments. Developed and modified 30+ Perl scripts, wrote 100+ SQL and PowerShell scripts, and configured Power BI and BIS reporting tools, improving reporting efficiency by 25%.</p>
-- <p align="justify">Maintained 100+ pods/containers, and managed resource utilization, reducing costs by 15%. Participated in weekly customer calls, maintained a 95% customer satisfaction rate, and kept Jira boards up to date, clearing 50+ outdated tickets.</p>
-- <p align="justify">Collaborated with development teams to enhance system performance, minimizing downtime by 20%. Analyzed system KPIs to further reduce downtime and ensure optimal performance</p>
+
+- <p align="justify">Managed 5+ clients as an IT Engineer and Consultant at INFORM GmbH, demonstrating proficiency in troubleshooting issues, application configuration, feature testing, and software delivery.</p>
+- <p align="justify">Resolved 100+ issues monthly via Jira across diverse technologies, including Windows Server, Linux, and AWS cloud environments.</p>
+- <p align="justify">Developed and modified scripts (Perl, SQL, PowerShell) and configured reporting tools (Power BI, BIS), improving reporting efficiency by 25%</p>
+- <p align="justify">Maintained 100+ pods/containers in a cloud environment, optimizing resource utilization and reducing costs by 15%.</p>
+- <p align="justify"> Provided 24/7 on-call support, maintaining a 95% customer satisfaction rate through effective communication and problem-solving.</p>
+- <p align="justify"> Collaborated with development teams to analyze system KPIs and implement improvements, minimizing downtime by 20%.</p>
 
 **Engineer Cloud and Infrastructure Services @ LTIMindtree (_December 2019 - March 2023_)**
-- <p align="justify">Proficient in troubleshooting diverse systems, resolving 100+ issues per month across Linux, VMware, Windows Server, Oracle, MS-SQL, MongoDB, Middleware, and Backup systems.</p>
+- <p align="justify">Ensured service uptime at Nexi Group by monitoring critical infrastructure (alert consoles & payment consoles), managing incidents with ServiceNow, and providing first-level troubleshooting across diverse technologies.</p>
+- <p align="justify">Proficient in resolving 100+ issues per month across Linux, VMware, Windows Server, Oracle, MS-SQL, MongoDB, Middleware, and Backup systems.</p>
 - <p align="justify">Managed database backup, recovery, and performance monitoring for Oracle, MS-SQL, and MongoDB ensuring 99% uptime.</p>
 - <p align="justify">Conducted service management and maintenance for Middleware and Linux, achieving 95% service availability and reducing system downtime by 15%. Handled server provisioning, resource management, reducing server deployment time by 30%.</p>
 
