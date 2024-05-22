@@ -11,7 +11,7 @@
 
 ## Education
   - M.S. Data Science | Stevens Institute of Technology (_Dec 2025_)
-  - B.S. Information Technology|TCSC: Univeristy of Mumbai (_May 2019_)
+  - B.S. Information Technology | University of Mumbai (_May 2019_)
 
 ## Work experience
 **IT Engineer @ INFORM GmbH (_April 2023 - Present_)**
