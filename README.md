@@ -4,16 +4,16 @@
 
 ## M.S. Data Science Student at Stevens
 
-##### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
+#### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
 
-### Profile
+## Profile
 <p align="justify">Leveraging 5+ years of experience in IT support, consulting, and administration, I've honed strong analytical, problem-solving, and technical skills. This experience has equipped me to effectively manage complex systems, troubleshoot issues, and communicate technical solutions clearly. I'm passionate about applying these skills to the field of data science.</p>
 
-### Education
+## Education
  - M.S., Data Science | Stevens Institute of Technology (_Dec 2025_)
- - B.S., Information Technology | Thakur College of Science & Commerce (_May 2019_)
+ - B.S., Information Technology|Thakur College of Science & Commerce (_May 2019_)
 
-### Work experience
+## Work experience
 **IT Engineer @ INFORM GmbH (_April 2023 - Present_)**
 
 - <p align="justify">Managed 5+ clients as an IT Engineer and Consultant at INFORM GmbH, demonstrating proficiency in troubleshooting issues, application configuration, feature testing, and software delivery.</p>
@@ -29,14 +29,14 @@
 - <p align="justify">Managed database backup, recovery, and performance monitoring for Oracle, MS-SQL, and MongoDB ensuring 99% uptime.</p>
 - <p align="justify">Conducted service management and maintenance for Middleware and Linux, achieving 95% service availability and reducing system downtime by 15%. Handled server provisioning, resource management, reducing server deployment time by 30%.</p>
 
-### Projects 
-#### Time Series Forecasting model in Python using the FBProphet module (_May 2024_) | [Colab Link](https://colab.research.google.com/drive/1l7wYgtDoStbtl2oIFVjJEizdraaZgAjc?usp=sharing#scrollTo=qmkjgc6weFY8)
+## Projects 
+### Time Series Forecasting model in Python using the FBProphet module (_May 2024_) | [Colab Link](https://colab.research.google.com/drive/1l7wYgtDoStbtl2oIFVjJEizdraaZgAjc?usp=sharing#scrollTo=qmkjgc6weFY8)
 <p align="justify">Developed a predictive model for New York City boroughs' electric consumption using daily data from 2010 to 2023. Aggregated data into monthly and yearly means, trained FBProphet models, and forecasted consumption for future periods. Tuned model parameters for accuracy and evaluated performance using MAE, MAPE, and R² metrics. Visualized results with historical and predicted data graphs.</p>
 
-#### Stock Foretell using Deep Learning (_April 2019_)
+### Stock Foretell using Deep Learning (_April 2019_)
 <p align="justify">Developed LSTM-based deep learning model using 20 years of historical data from the National Stock Exchange to forecast Nifty-50 index stock prices, showcasing deep learning's potential in financial forecasting</p>
 
-### Achievements and Publications 
+## Achievements and Publications 
 - <p align="justify">Led a 15+ member team at LTIMindtree for 2 months, managing shift rosters, implementing improvement plans, conducting training sessions and Successfully obtained long-pending sign-offs from the customer, garnering recognition from management, and receiving the "Pat on the Back" award.</p>
 - <p align="justify"> Secured 2nd Rank in the First Year BSc IT examination during the academic year 2016-17.</p>
 - <p align="justify"> Successfully published and presented and research paper “Evolution of online shopping: E-commerce” in the journal “The Vibrant India”</p>
