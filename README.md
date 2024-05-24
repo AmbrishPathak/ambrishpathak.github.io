@@ -43,12 +43,12 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shruti91748177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shruti91748177" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/Shruti Rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shruti-rawat22" height="30" width="40" /></a>
-<a href="https://twitter.com/shruti91748177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shruti91748177" height="30" width="40" /></a>
-<a href="https://kaggle.com/shrutikarawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrutikarawat" height="30" width="40" /></a>
-<a href="https://fb.com/Shrutikarawat10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shruti rawat" height="30" width="40" /></a>
-<a href="https://instagram.com/shrutika_rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutika_rawat" height="30" width="40" /></a>
-<a href="https://medium.com/@shrutikaraw22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shrutikaraw22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shrutikaraw22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutikaraw22" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ambrish-pathak-07aug1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ambrishpathak" height="30" width="40" /></a>
+<a href="https://github.com/AmbrishPathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ambrishpathak" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/AmbrishPathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AmbrishPathak" height="30" width="40" />
+<a href="https://www.kaggle.com/ambrishpathak01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ambrishpathak01" height="30" width="40" /></a>
+<a href="https://x.com/im_mrpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrpathak" height="30" width="40" /></a>
+<a href="https://www.instagram.com/im_mr.pathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_mr.pathak" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/ambrish.pathak.501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AmbrishPathak" height="30" width="40" /></a>
+</a>
 </p>
