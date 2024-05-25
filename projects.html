@@ -75,6 +75,9 @@
             color: #ffa500; /* Text color on hover */
             border-radius: 25px; /* Corner radius on hover */
         }
+        .image-container:hover img {
+            transform: scale(1.01); /* Zoom in by 20% */
+        }
     </style>
 </head>
 <body>
@@ -84,14 +87,14 @@
     <div class="container">
         <div class="post">
             <h2>Disease Progression Prediction Using Linear Regression in Python</h2>
-            <img src="assets/img/linear_regression.png" alt="AZ 900">
+            <div class="image-container"><img src="assets/img/linear_regression.png" alt="AZ 900"></div>
             <p align="justify">The primary objective is to implement a Linear Regression model using Python's Scikit-learn module to predict the progression of a disease.</p>
             <div align ="Center"><a href ="https://github.com/AmbrishPathak/Disease-Progression-Prediction-Using-Linear-Regression-in-Python"><button class="stylish-button">View Project</button></a></div>
             
        </div>
         <div class="post">
             <h2>Time Series Forecasting model in Python, by using the FBProphet module</h2>
-            <img src="assets/img/time_series.jpg" alt="Post Image 2">
+            <div class="image-container"><img src="assets/img/time_series.jpg" alt="Post Image 2"></div>
             <p align="justify">This project focuses on implementing a time series forecasting model in Python to predict electricity consumption in New York City using Facebook's Prophet module.</p>
             <div align ="Center"><a href="https://github.com/AmbrishPathak/Time-Series-Forecasting-FBProphet"><button class="stylish-button">View Project</button></a></div>
         </div>
