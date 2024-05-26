@@ -33,6 +33,7 @@
             padding: 20px;
             width: calc(33% - 40px);
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
         }
 
         .post img {
@@ -56,8 +57,48 @@
                 width: calc(100% - 40px);
             }
         }
+
         .image-container:hover img {
-            transform: scale(1.02); /* Zoom in by 20% */
+            transform: scale(1.02); /* Zoom in by 2% */
+        }
+
+        /* Modal styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.9);
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-content {
+            margin: auto;
+            display: block;
+            max-width: 80%;
+            max-height: 80%;
+        }
+
+        .close {
+            position: absolute;
+            top: 20px;
+            right: 35px;
+            color: #fff;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -66,55 +107,60 @@
         <h1>Certifications</h1>
     </header>
     <div class="container">
-        <div class="post">
+        <div class="post" onclick="openModal('AZ-900.png')">
             <h2>Microsoft certified: Azure Fundamentals (AZ-900)</h2>
             <div class="image-container"><img src="assets/img/AZ-900.png" alt="AZ 900"></div>
-            <p></p>
         </div>
-        <div class="post">
+        <div class="post" onclick="openModal('AWS01.png')">
             <h2>AWS Technical Professional</h2>
-            <div class="image-container"><img src="assets/img/AWS01.png" alt="Post Image 2"></div>
-            <p></p>
+            <div class="image-container"><img src="assets/img/AWS01.png" alt="AWS Technical Professional"></div>
         </div>
-        <div class="post">
+        <div class="post" onclick="openModal('LTI_CIS.png')">
             <h2>LTI Certified Cloud & Infrastructure Services Professional</h2>
-            <div class="image-container"><img src="assets/img/LTI_CIS.png" alt="Post Image 3"></div>
-            <p></p>
+            <div class="image-container"><img src="assets/img/LTI_CIS.png" alt="LTI Certified Cloud & Infrastructure Services Professional"></div>
         </div>
-        <div class="post">
+        <div class="post" onclick="openModal('LTI_POB.png')">
             <h2>LTI : Certificate of Appreciation</h2>
-            <div class="image-container"><img src="assets/img/LTI_POB.png" alt="Post Image 3"></div>
-            <p></p>
+            <div class="image-container"><img src="assets/img/LTI_POB.png" alt="LTI : Certificate of Appreciation"></div>
         </div>
-        <div class="post">
+        <div class="post" onclick="openModal('Ansible.png')">
             <h2>Ansible Quick Start</h2>
-            <div class="image-container"><img src="assets/img/Ansible.png" alt="Post Image 3"></div>
-            <p></p>
+            <div class="image-container"><img src="assets/img/Ansible.png" alt="Ansible Quick Start"></div>
         </div>
-        <div class="post">
+        <div class="post" onclick="openModal('splunk.png')">
             <h2>Linux Academy : Splunk Deep Dive</h2>
-            <div class="image-container"><img src="assets/img/splunk.png" alt="Post Image 3"></div>
-            <p></p>
+            <div class="image-container"><img src="assets/img/splunk.png" alt="Splunk Deep Dive"></div>
         </div>
-        <div class="post">
+        <div class="post" onclick="openModal('NPTEL_Cloud.png')">
             <h2>NPTEL Online Certification : Cloud Computing</h2>
-           <div class="image-container"> <img src="assets/img/NPTEL_Cloud.png" alt="Post Image 3"></div>
-            <p></p>
+            <div class="image-container"><img src="assets/img/NPTEL_Cloud.png" alt="NPTEL Online Certification : Cloud Computing"></div>
         </div>
-        <div class="post">
+        <div class="post" onclick="openModal('NPTEL_DSA.png')">
             <h2>NPTEL Online : Programming, Data Structure and Algorithms using Python</h2>
-            <div class="image-container"><img src="assets/img/NPTEL_DSA.png" alt="Post Image 3"></div>
-            <p></p>
+            <div class="image-container"><img src="assets/img/NPTEL_DSA.png" alt="NPTEL Online : Programming, Data Structure and Algorithms using Python"></div>
         </div>
-        <div class="post">
-            <h2> GCP : Generative AI Fundamentals</h2>
-            <div class="image-container"><img src="assets/img/GenAI.png" alt="Post Image 3"></div>
-            <p></p>
+        <div class="post" onclick="openModal('GenAI.png')">
+            <h2>GCP : Generative AI Fundamentals</h2>
+            <div class="image-container"><img src="assets/img/GenAI.png" alt="Generative AI Fundamentals"></div>
         </div>
         <!-- Add more posts as needed -->
-        <!-- background-color: #159957; -->
-            <!-- background-image: linear-gradient(120deg, #155799, #159957); -->
     </div>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img class="modal-content" id="modalImage">
+    </div>
+
+    <script>
+        function openModal(imageSrc) {
+            document.getElementById('myModal').style.display = 'flex';
+            document.getElementById('modalImage').src = 'assets/img/' + imageSrc;
+        }
+
+        function closeModal() {
+            document.getElementById('myModal').style.display = 'none';
+        }
+    </script>
 </body>
 </html>
-
