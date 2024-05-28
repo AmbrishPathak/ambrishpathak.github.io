@@ -52,3 +52,4 @@
   <a href="https://www.facebook.com/ambrish.pathak.501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AmbrishPathak" height="30" width="40" /></a>
 </a>
 </p>
+![](https://api.visitorbadge.io/api/VisitorHit?user=ambrishpathakf&repo=ambrishpathak.github.io&countColor=%237B1E7A)
