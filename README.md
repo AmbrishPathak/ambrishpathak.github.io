@@ -2,7 +2,7 @@
 
 
 
-## M.S. Data Science Student at Stevens
+## M.S. Data Science @ Stevens Institute of Technology 
 
 #### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
 
@@ -14,7 +14,7 @@
   - B.S. Information Technology | University of Mumbai (_May 2019_)
 
 ## Work experience
-**IT Engineer @ INFORM GmbH (_April 2023 - Present_)**
+**IT Engineer @ INFORM GmbH (_April 2023 - August 2024_)**
 
 - <p align="justify">Managed 5+ clients as an IT Engineer and Consultant at INFORM GmbH, demonstrating proficiency in troubleshooting issues, application configuration, feature testing, and software delivery.</p>
 - <p align="justify">Resolved 100+ issues monthly via Jira across diverse technologies, including Windows Server, Linux, and AWS cloud environments.</p>
